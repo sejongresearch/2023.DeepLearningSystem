@@ -1,5 +1,9 @@
+
 ## 수업정보
 - 수업방식: 하이브리드강의
+
+## 수업계획서
+- [PDF](https://github.com/sejongresearch/2023.DeepLearningSystem/blob/main/%E1%84%89%E1%85%AE%E1%84%8B%E1%85%A5%E1%86%B8%E1%84%80%E1%85%A8%E1%84%92%E1%85%AC%E1%86%A8%E1%84%89%E1%85%A5(2023).pdf)
 
 ## 시험정보
 - 중간고사: 2023년 04월 24일(월) 오후 12시 - 15시 / 오프라인 시험 / 이론+실습
@@ -7,7 +11,7 @@
 
 ## 수업교재
 - 비전시스템을 위한 딥러닝 / Deep Learning for Vision Systems
-  - [원서 웹 링크](https://livebook.manning.com/book/grokking-deep-learning-for-computer-vision/chapter-1/), [원서 PDF](https://github.com/sejongresearch/2023.DeepLearningSystem/blob/main/%E1%84%89%E1%85%AE%E1%84%8B%E1%85%A5%E1%86%B8%E1%84%80%E1%85%A8%E1%84%92%E1%85%AC%E1%86%A8%E1%84%89%E1%85%A5(2023).pdf)
+  - [원서 웹 링크](https://livebook.manning.com/book/grokking-deep-learning-for-computer-vision/chapter-1/), [원서 PDF](https://github.com/sejongresearch/2023.DeepLearningSystem/blob/main/deep-learning-for-vision-systems.pdf)
 
 ## 강의계획서
 - 수업시간: 월(12:00-15:00) 
