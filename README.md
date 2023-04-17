@@ -35,7 +35,7 @@
 | 7주차 | R-CNN, SSD, YOLO 를 이용한 사물 탐지 | [PDF](https://github.com/sejongresearch/2023.DeepLearningSystem/blob/main/LectureNotes/%5B%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%8B%9C%EC%8A%A4%ED%85%9C%5D%5B7%EC%A3%BC%EC%B0%A8%5DR-CNN%2CSSD%2CYOLO%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%82%AC%EB%AC%BC%20%ED%83%90%EC%A7%80.pdf)  | 2023.04.17 | [Youtube](https://youtu.be/PH-4pg_z5uc?list=PL1xKqHsVFgvl0mdO_n_Ppx3w_doigvwdd) | [실습 리더보드](https://www.kaggle.com/t/f05001db4eef47a094a5b002cab51fa4)|   
 
 ## 참고자료
-
+- 최유경교수 기계학습/인공지능 수업 미이수자 참고자료
 | week | Cource Contents | LectureNote | Date |  Video | HomeWork |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | 추가 |  라이브러리 관련 영상 | [Numpy 실습](https://www.kaggle.com/yukyungchoi/2022-ml-numpy-cheatsheet) <br> [Pandas 데이터프레임 실습](https://www.kaggle.com/code/yukyungchoi/2022-ml-pandas-cheatsheet/script) <br> [Pandas 프로파일링](https://www.kaggle.com/yukyungchoi/2022-ml-pandas-profiling) <br> [Matplotlib 실습](https://www.kaggle.com/yukyungchoi/2022-ml-matplotlib-cheatsheet) |  |[Numpy 관련 영상](https://youtu.be/xEXzE0oWFvw) <br> [Pandas 관련 영상](https://youtu.be/sFJyzPD4rw0) <br> [Matplotlib 관련 영상](https://youtu.be/6C8DLhypvp4)  | |
