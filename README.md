@@ -21,7 +21,7 @@
   - 김태주(tjkim@rcv.sejong.ac.kr)
   - 신정민(jmshin@rcv.sejong.ac.kr)
   - 김도경(dgkim@rcv.sejong.ac.kr)
-  - 이승현(shlee@rcv.sejong.ac.kr)
+  - 이승현(shlee@rcv.sejong.ac.kr) : 총괄조교
 
 | week | Cource Contents | LectureNote | Date |  Video | 과제 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
