@@ -36,6 +36,7 @@
 
 ## 참고자료
 - 최유경교수 기계학습/인공지능 수업 미이수자 참고자료
+
 | week | Cource Contents | LectureNote | Date |  Video | HomeWork |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | 추가 |  라이브러리 관련 영상 | [Numpy 실습](https://www.kaggle.com/yukyungchoi/2022-ml-numpy-cheatsheet) <br> [Pandas 데이터프레임 실습](https://www.kaggle.com/code/yukyungchoi/2022-ml-pandas-cheatsheet/script) <br> [Pandas 프로파일링](https://www.kaggle.com/yukyungchoi/2022-ml-pandas-profiling) <br> [Matplotlib 실습](https://www.kaggle.com/yukyungchoi/2022-ml-matplotlib-cheatsheet) |  |[Numpy 관련 영상](https://youtu.be/xEXzE0oWFvw) <br> [Pandas 관련 영상](https://youtu.be/sFJyzPD4rw0) <br> [Matplotlib 관련 영상](https://youtu.be/6C8DLhypvp4)  | |
