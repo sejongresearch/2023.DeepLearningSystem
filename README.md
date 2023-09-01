@@ -37,6 +37,8 @@
 | 9 | ROS2 이론|  [이론](https://github.com/sejongresearch/2023.DeepLearningSystem/blob/main/LectureNotes/%5B%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%8B%9C%EC%8A%A4%ED%85%9C%5D%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EA%B0%9C%EC%9A%94%20%EB%B0%8F%20%ED%99%98%EA%B2%BD%20%EC%84%B8%ED%8C%85.pdf) <br/> [ROS2 강의 자료](https://accurate-ocean-46a.notion.site/2023-ROS2-597c54a4cb0e4937af1de4f43525c746) <br/>[윈도우에 ROS2설치](https://github.com/sejongresearch/2023.DeepLearningSystem/blob/main/LectureNotes/%5B%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%8B%9C%EC%8A%A4%ED%85%9C%5D%EC%9C%88%EB%8F%84%EC%9A%B0%EC%97%90ROS2%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0.pdf)  | 2023.05.01 | [이론영상](https://youtu.be/gQJ26B8AH5E)  <br/> [Nano환경설정 실습영상](https://youtu.be/9oCmfHsSC54) | |
 | 10 | ROS2 실습 | [ROS2 강의 자료](https://accurate-ocean-46a.notion.site/2023-ROS2-597c54a4cb0e4937af1de4f43525c746) <br/> [실습 예제 코드](https://github.com/2seung0708/ros2_example.git) | 2023.05.08 | [ROS2(토픽&서비스)](https://youtu.be/gFY2oeSBQco) | |
 | 11 | ROS2 실습 및 Detection 튜토리얼 | [SSD관련 코드](https://www.kaggle.com/code/sjmin99/dl-2023-od-example) | 2023.05.15 | [ROS2(액션&Detection)](https://youtu.be/sP1QuzH04bk) <br/>[SSD관련](https://youtu.be/4wY3ITKXpoc)  | [제안서](TermProject.md) |
+| 12-14 | ROS2 프로젝트 | | 2023.05.22 |  | |
+| 15 | 기말고사 | | 2023.06.12 |  | |
 
 
 ## 참고자료
